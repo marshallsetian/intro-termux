@@ -30,7 +30,7 @@ merah="\033[1;91m"
 biru="\033[1;96m"
 
 os.system("clear")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}FOLLOW INSTAGRAM KU COEG @Marshall Setian")
+autoketik(f"{biru}[{kuning}MARI BERTEMAN{biru}] {W}FACEBOOK ACCOUNT YOEL MARSHALL SETIAN")
 time.sleep(3)
 os.system("xdg-open https://www.facebook.com/yoelmars1509")
 autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah FOLLOW YAH.., semoga work")
@@ -39,7 +39,7 @@ os.system("clear")
 autoketik(f"""
 
 {putih}[{biru}•{putih}] {biru}Author {putih}   : MarshallSetian
-{putih}[{biru}•{putih}] {abu}GitHub {putih}   : papaENG
+{putih}[{biru}•{putih}] {abu}GitHub {putih}   : marshallsetian
 {putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : marshall setian
 {putih}[{biru}•{putih}] {ungu}Instagram {putih}: @marshall_setian
 {W}[{Y}•{W}] Ip Kamu {putih}  :{Y} {ip}
