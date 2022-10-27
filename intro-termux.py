@@ -4,10 +4,6 @@ autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah FOLLOW YAH.., semoga 
 time.sleep(3)
 os.system("clear")
 autoketik(f"""
-{hijau}╔═╗{merah}┌─┐┌─┐┌┬┐  {biru}╦ ╦┬ ┬┌─┐┌┬┐{putih}┌─┐{kuning}┌─┐┌─┐ ┌─┐
-{hijau}╚═╗{merah}├─┘├─┤│││  {biru}║║║├─┤├─┤ │ {putih}└─┐{kuning}├─┤├─┘ ├─┘
-{hijau}╚═╝{merah}┴  ┴ ┴┴ ┴  {biru}╚╩╝┴ ┴┴ ┴ ┴ {putih}└─┘{kuning}┴ ┴┴   ┴ {ungu}V1
-{abu}-----------------------------------------
 {putih}[{biru}•{putih}] {biru}Author {putih}   : MarshallSetian
 {putih}[{biru}•{putih}] {abu}GitHub {putih}   : papaENG
 {putih}[{biru}•{putih}] {merah}You{putih}Tube {putih}  : marshall setian
