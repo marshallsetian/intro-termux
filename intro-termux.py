@@ -1,8 +1,4 @@
-time.sleep(3)
-os.system("xdg-open https://www.facebook.com/yoelmars1509")
-autoketik(f"{biru}[{kuning}Warning{biru}] {W}Thx yang udah FOLLOW YAH.., semoga work")
-time.sleep(3)
-os.system("clear")
+
 autoketik(f"""
 {putih}[{biru}•{putih}] {biru}Author {putih}   : MarshallSetian
 {putih}[{biru}•{putih}] {abu}GitHub {putih}   : papaENG
